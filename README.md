@@ -134,3 +134,22 @@ Three distinctions are important for investment decisions:
 - **Investment returns require further financial analysis:** Rental income, acquisition costs, construction expenditure, financing, operating expenses, transaction history and expected exit values would be required to establish ROI, rental yields and development profitability.
 
 **Final investment consideration:** The findings should be used as an initial market-screening exercise to identify locations and property segments for deeper due diligence before committing private equity capital.
+
+
+TABLES-
+core_segment  Affordable Homes  Mid Market  Average Premium
+city                                                       
+Seattle                    193         745              402
+Kent                       110          68                5
+Auburn                     110          57                6
+Federal Way                100          37                8
+Renton                      90         171               24
+Des Moines                  40          14                2
+Burien                      39          23                6
+Maple Valley                35          56                4
+Covington                   34           7                0
+Shoreline                   33          77                6
+       core_segment  count_of_houses  avg_price_per_sqft  avg_total_price
+0  Affordable Homes              933          177.377018    237477.049530
+1        Mid Market             1940          253.934918    421798.633333
+2   Average Premium             1065          291.142865    665218.536995
