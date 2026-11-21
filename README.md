@@ -135,21 +135,44 @@ Three distinctions are important for investment decisions:
 
 **Final investment consideration:** The findings should be used as an initial market-screening exercise to identify locations and property segments for deeper due diligence before committing private equity capital.
 
+** Tables
+## CORE MARKET
 
-TABLES-
-core_segment  Affordable Homes  Mid Market  Average Premium
-city                                                       
-Seattle                    193         745              402
-Kent                       110          68                5
-Auburn                     110          57                6
-Federal Way                100          37                8
-Renton                      90         171               24
-Des Moines                  40          14                2
-Burien                      39          23                6
-Maple Valley                35          56                4
-Covington                   34           7                0
-Shoreline                   33          77                6
-       core_segment  count_of_houses  avg_price_per_sqft  avg_total_price
-0  Affordable Homes              933          177.377018    237477.049530
-1        Mid Market             1940          253.934918    421798.633333
-2   Average Premium             1065          291.142865    665218.536995
+| city         |   Affordable Homes |   Mid Market |   Average Premium |
+|:-------------|-------------------:|-------------:|------------------:|
+| Seattle      |                193 |          745 |               402 |
+| Kent         |                110 |           68 |                 5 |
+| Auburn       |                110 |           57 |                 6 |
+| Federal Way  |                100 |           37 |                 8 |
+| Renton       |                 90 |          171 |                24 |
+| Des Moines   |                 40 |           14 |                 2 |
+| Burien       |                 39 |           23 |                 6 |
+| Maple Valley |                 35 |           56 |                 4 |
+| Covington    |                 34 |            7 |                 0 |
+| Shoreline    |                 33 |           77 |                 6 |
+|    | core_segment     |   count_of_houses |   avg_price_per_sqft |   avg_total_price |
+|---:|:-----------------|------------------:|---------------------:|------------------:|
+|  0 | Affordable Homes |               933 |              177.377 |            237477 |
+|  1 | Mid Market       |              1940 |              253.935 |            421799 |
+|  2 | Average Premium  |              1065 |              291.143 |            665219 |
+
+
+## PREMIUM MARKET
+
+| city          |   Luxury |   Premium Luxury |   Ultra Luxury |
+|:--------------|---------:|-----------------:|---------------:|
+| Seattle       |       85 |               14 |              1 |
+| Bellevue      |       41 |                6 |              2 |
+| Mercer Island |       26 |                5 |              1 |
+| Kirkland      |        9 |                2 |              0 |
+| Redmond       |        7 |                1 |              0 |
+| Medina        |        4 |                5 |              1 |
+| Clyde Hill    |        4 |                1 |              1 |
+| Sammamish     |        4 |                1 |              0 |
+| Woodinville   |        3 |                0 |              0 |
+| Fall City     |        2 |                0 |              0 |
+|    | premium_segment   |   count_of_houses |   avg_price_per_sqft |   avg_total_price |
+|---:|:------------------|------------------:|---------------------:|------------------:|
+|  0 | Luxury            |               193 |              412.639 |       1.4423e+06  |
+|  1 | Premium Luxury    |                40 |              584.066 |       2.40049e+06 |
+|  2 | Ultra Luxury      |                 6 |             1497.21  |       6.10475e+06 |
