@@ -172,7 +172,7 @@ Three distinctions are important for investment decisions:
 | Woodinville   |        3 |                0 |              0 |
 | Fall City     |        2 |                0 |              0 |
 |    | premium_segment   |   count_of_houses |   avg_price_per_sqft |   avg_total_price |
-|---:|:------------------|------------------:|---------------------:|------------------:|
+|---:|:|:|:|:|
 |  0 | Luxury            |               193 |              412.639 |       1.4423e+06  |
 |  1 | Premium Luxury    |                40 |              584.066 |       2.40049e+06 |
 |  2 | Ultra Luxury      |                 6 |             1497.21  |       6.10475e+06 |
