@@ -159,3 +159,20 @@ Three distinctions are important for investment decisions:
 
 ## PREMIUM MARKET
 
+| city          |   Luxury |   Premium Luxury |   Ultra Luxury |
+|:--------------|---------:|-----------------:|---------------:|
+| Seattle       |       85 |               14 |              1 |
+| Bellevue      |       41 |                6 |              2 |
+| Mercer Island |       26 |                5 |              1 |
+| Kirkland      |        9 |                2 |              0 |
+| Redmond       |        7 |                1 |              0 |
+| Medina        |        4 |                5 |              1 |
+| Clyde Hill    |        4 |                1 |              1 |
+| Sammamish     |        4 |                1 |              0 |
+| Woodinville   |        3 |                0 |              0 |
+| Fall City     |        2 |                0 |              0 |
+|    | premium_segment   |   count_of_houses |   avg_price_per_sqft |   avg_total_price |
+|---:|:------------------|------------------:|---------------------:|------------------:|
+|  0 | Luxury            |               193 |              412.639 |       1.4423e+06  |
+|  1 | Premium Luxury    |                40 |              584.066 |       2.40049e+06 |
+|  2 | Ultra Luxury      |                 6 |             1497.21  |       6.10475e+06 |
