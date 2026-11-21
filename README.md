@@ -160,7 +160,7 @@ Three distinctions are important for investment decisions:
 ## PREMIUM MARKET
 
 | city          |   Luxury |   Premium Luxury |   Ultra Luxury |
-
+----------------------------------------------------------------
 | Seattle       |       85 |               14 |              1 |
 | Bellevue      |       41 |                6 |              2 |
 | Mercer Island |       26 |                5 |              1 |
