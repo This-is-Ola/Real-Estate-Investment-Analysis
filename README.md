@@ -151,7 +151,7 @@ Three distinctions are important for investment decisions:
 | Covington    |                 34 |            7 |                 0 |
 | Shoreline    |                 33 |           77 |                 6 |
 |    | core_segment     |   count_of_houses |   avg_price_per_sqft |   avg_total_price |
-|---:|:-----------------|------------------:|---------------------:|------------------:|
+|---:|:|:|:|:|
 |  0 | Affordable Homes |               933 |              177.377 |            237477 |
 |  1 | Mid Market       |              1940 |              253.935 |            421799 |
 |  2 | Average Premium  |              1065 |              291.143 |            665219 |
@@ -160,7 +160,7 @@ Three distinctions are important for investment decisions:
 ## PREMIUM MARKET
 
 | city          |   Luxury |   Premium Luxury |   Ultra Luxury |
-|:--------------|---------:|-----------------:|---------------:|
+
 | Seattle       |       85 |               14 |              1 |
 | Bellevue      |       41 |                6 |              2 |
 | Mercer Island |       26 |                5 |              1 |
