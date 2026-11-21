@@ -61,6 +61,7 @@ Kent, Auburn and Federal Way have considerably fewer properties in this segment,
 This concentration suggests that Seattle offers a stronger established market presence for Average Premium development than the three Affordable-focused locations.
 
 ---
+<img width="696" height="547" alt="image" src="https://github.com/user-attachments/assets/0ed2175c-ecf3-405d-8781-53098419418e" />
 
 ## 6. Property Value Comparison
 
@@ -79,6 +80,7 @@ Affordable properties offer the lowest entry-level property value, while Average
 **Investment implication:** The investor should evaluate the trade-off between property value, market concentration and development costs before allocating capital across these segments.
 
 ---
+<img width="705" height="547" alt="image" src="https://github.com/user-attachments/assets/753981c0-bb55-4118-9af4-2de8912ebdbf" />
 
 ## 7. Luxury Market Analysis
 
