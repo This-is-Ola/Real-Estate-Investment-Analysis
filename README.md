@@ -135,7 +135,7 @@ Three distinctions are important for investment decisions:
 
 **Final investment consideration:** The findings should be used as an initial market-screening exercise to identify locations and property segments for deeper due diligence before committing private equity capital.
 
-** Tables
+## Tables
 ## CORE MARKET
 
 | city         |   Affordable Homes |   Mid Market |   Average Premium |
