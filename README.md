@@ -32,11 +32,11 @@ Based on the observed property distribution and price-per-square-foot analysis, 
 
 Seattle dominates the Mid-Level segment, with Renton ranking second.
 
- City     Number of Homes 
+ City   and   Number of Homes 
 
- Seattle          **745** 
- Renton           **171** 
- Kent              **68** 
+ Seattle   :       **745** 
+ Renton     :      **171** 
+ Kent      :        **68** 
 
 Seattle's concentration is particularly significant, with 745 homes compared with Renton's 171 and Kent's 68.
 
