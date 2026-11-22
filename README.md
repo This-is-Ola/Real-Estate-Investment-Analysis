@@ -21,10 +21,10 @@ Based on the observed property distribution and price-per-square-foot analysis, 
 | 1    | Mid-Level              | Seattle                    | Strongest observed market concentration, with 745 homes |
 | 2    | Mid-Level              | Renton                     | Second-strongest presence, with 171 homes               |
 | 3    | First Tier Luxury      | Seattle                    | Strongest Luxury market, with 100 homes                 |
-| 4    | Ultra Luxury           | Mercer Island              | Observed presence of 2 Ultra Luxury homes               |
+| 4    | Ultra Luxury           | Bellevue              | Observed presence of 2 Ultra Luxury homes               |
 | 5    | Affordable             | Kent, Auburn & Federal Way | Strong concentration of Affordable properties           |
 
-**Investment direction:** Prioritise Mid-Level development in Seattle and Renton, followed by First Tier Luxury in Seattle. Consider Mercer Island for a targeted Ultra Luxury strategy and Kent, Auburn and Federal Way for Affordable housing development.
+**Investment direction:** Prioritise Mid-Level development in Seattle and Renton, followed by First Tier Luxury in Seattle. Consider Bellevue for a targeted Ultra Luxury strategy and Kent, Auburn and Federal Way for Affordable housing development.
 
 ---
 
@@ -91,7 +91,7 @@ Most of Seattle's Luxury properties fall within the First Tier Luxury category, 
 - **14 Premium Luxury homes**
 - **1 Ultra Luxury home**
 
-Interestingly, Mercer Island has **2 Ultra Luxury homes**, suggesting a potential niche opportunity outside Seattle.&#x20;
+Interestingly, Bellevue has **2 Ultra Luxury homes**, suggesting a potential niche opportunity outside Seattle.&#x20;
 
 ### Luxury Property Value Comparison
 
@@ -105,7 +105,7 @@ Ultra Luxury properties command a significantly higher average price per square 
 ### Luxury Investment Direction
 
 - **First Tier Luxury:** Prioritise Seattle.
-- **Ultra Luxury:** Investigate Mercer Island.
+- **Ultra Luxury:** Investigate Bellevue.
 
 ---
 
@@ -118,10 +118,10 @@ The recommended capital allocation priorities are:
 1. **Seattle – Mid-Level:** Primary development opportunity based on its 745 observed homes.
 2. **Renton – Mid-Level:** Secondary development opportunity, with 171 homes.
 3. **Seattle – First Tier Luxury:** Target the established Luxury market, with 100 Luxury homes.
-4. **Mercer Island – Ultra Luxury:** Investigate the niche market represented by 2 Ultra Luxury homes.
+4. **Bellevue – Ultra Luxury:** Investigate the niche market represented by 2 Ultra Luxury homes.
 5. **Kent, Auburn and Federal Way – Affordable:** Target locations with strong Affordable market concentration.
 
-The overall strategy is to prioritise Mid-Level development in Seattle and Renton, expand into First Tier Luxury in Seattle, investigate Ultra Luxury opportunities in Mercer Island and consider Affordable housing development across Kent, Auburn and Federal Way.
+The overall strategy is to prioritise Mid-Level development in Seattle and Renton, expand into First Tier Luxury in Seattle, investigate Ultra Luxury opportunities in Bellevue and consider Affordable housing development across Kent, Auburn and Federal Way.
 
 ---
 
